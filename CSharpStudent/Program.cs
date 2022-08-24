@@ -10,7 +10,7 @@ namespace CSharpStudent
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to C# ____"); //--< Replace the "____" with your name <<<
+            Console.WriteLine("Welcome to C# Rachel Owen"); //--< Replace the "____" with your name <<<
             Console.ReadKey();
         }
     }
