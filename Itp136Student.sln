@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpStudent____", "CSharpStudent\CSharpStudent____.csproj", "{3D812896-081B-49CC-8230-B5B493F236A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpStudentRachelOwen", "CSharpStudent\CSharpStudentRachelOwen.csproj", "{3D812896-081B-49CC-8230-B5B493F236A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week1-Variables", "Week1-Variables\Week1-Variables.csproj", "{CB6C0A53-99A3-4851-AEC6-6092F3E7C34F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week1-Variables", "Week1-Variables\Week1-Variables.csproj", "{CB6C0A53-99A3-4851-AEC6-6092F3E7C34F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{A5AD1AE0-4D95-490D-9FAA-849F844D038D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{A5AD1AE0-4D95-490D-9FAA-849F844D038D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
