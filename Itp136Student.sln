@@ -9,15 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week1-Variables", "Week1-Va
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{A5AD1AE0-4D95-490D-9FAA-849F844D038D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoVariables", "DemoVariables\DemoVariables.csproj", "{1795A7B1-267A-4F8A-9D69-C017C3921DFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoVariables", "DemoVariables\DemoVariables.csproj", "{1795A7B1-267A-4F8A-9D69-C017C3921DFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoVariables2", "DemoVariables2\DemoVariables2.csproj", "{7DE39F46-E728-470C-8F84-623E5FDB3E7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoVariables2", "DemoVariables2\DemoVariables2.csproj", "{7DE39F46-E728-470C-8F84-623E5FDB3E7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoVariables3", "DemoVariables3\DemoVariables3.csproj", "{5BD1B991-4A84-48C8-858A-7016E0545483}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoVariables3", "DemoVariables3\DemoVariables3.csproj", "{5BD1B991-4A84-48C8-858A-7016E0545483}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoEscapeSequences", "DemoEscapeSequences\DemoEscapeSequences.csproj", "{02D895D2-AE67-407F-B9A0-F60B8F4D6E33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoEscapeSequences", "DemoEscapeSequences\DemoEscapeSequences.csproj", "{02D895D2-AE67-407F-B9A0-F60B8F4D6E33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractiveAddition", "InteractiveAddition\InteractiveAddition.csproj", "{320FA483-DF19-4912-8642-5F1E5709D662}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InteractiveAddition", "InteractiveAddition\InteractiveAddition.csproj", "{320FA483-DF19-4912-8642-5F1E5709D662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week2Variables", "Week2Variables\Week2Variables.csproj", "{982E1D52-1BC3-457D-A46D-CE5A00DEF8FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{320FA483-DF19-4912-8642-5F1E5709D662}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{320FA483-DF19-4912-8642-5F1E5709D662}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{320FA483-DF19-4912-8642-5F1E5709D662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{982E1D52-1BC3-457D-A46D-CE5A00DEF8FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{982E1D52-1BC3-457D-A46D-CE5A00DEF8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{982E1D52-1BC3-457D-A46D-CE5A00DEF8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{982E1D52-1BC3-457D-A46D-CE5A00DEF8FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
