@@ -21,13 +21,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InteractiveAddition", "Inte
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week2Variables", "Week2Variables\Week2Variables.csproj", "{982E1D52-1BC3-457D-A46D-CE5A00DEF8FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareThreeNumbers", "CompareThreeNumbers\CompareThreeNumbers.csproj", "{785893FF-CBC7-42D4-B1E8-058C2C0E978E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompareThreeNumbers", "CompareThreeNumbers\CompareThreeNumbers.csproj", "{785893FF-CBC7-42D4-B1E8-058C2C0E978E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoORAndAND", "DemoORAndAND\DemoORAndAND.csproj", "{93BAA23D-1307-4310-ADC5-AFA5EC459B97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoORAndAND", "DemoORAndAND\DemoORAndAND.csproj", "{93BAA23D-1307-4310-ADC5-AFA5EC459B97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailySpecial", "DailySpecial\DailySpecial.csproj", "{1C43B88D-50FE-4299-BB3B-AB0379E693F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DailySpecial", "DailySpecial\DailySpecial.csproj", "{1C43B88D-50FE-4299-BB3B-AB0379E693F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week3Project", "Week3Project\Week3Project.csproj", "{A71F9D1B-854A-448B-BC7B-94FD66312F82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week3Project", "Week3Project\Week3Project.csproj", "{A71F9D1B-854A-448B-BC7B-94FD66312F82}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidID", "ValidID\ValidID.csproj", "{386DE386-B978-4C3F-AAAD-43C02C81C4C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TippingTable", "TippingTable\TippingTable.csproj", "{F2B5BE54-32CF-487E-8BF7-4B2DCDF1A803}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week4Project", "Week4Project\Week4Project.csproj", "{8E8621C0-11C1-4A40-8D8E-1D57704028E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +93,18 @@ Global
 		{A71F9D1B-854A-448B-BC7B-94FD66312F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A71F9D1B-854A-448B-BC7B-94FD66312F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A71F9D1B-854A-448B-BC7B-94FD66312F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{386DE386-B978-4C3F-AAAD-43C02C81C4C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386DE386-B978-4C3F-AAAD-43C02C81C4C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386DE386-B978-4C3F-AAAD-43C02C81C4C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386DE386-B978-4C3F-AAAD-43C02C81C4C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B5BE54-32CF-487E-8BF7-4B2DCDF1A803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B5BE54-32CF-487E-8BF7-4B2DCDF1A803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B5BE54-32CF-487E-8BF7-4B2DCDF1A803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B5BE54-32CF-487E-8BF7-4B2DCDF1A803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E8621C0-11C1-4A40-8D8E-1D57704028E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8621C0-11C1-4A40-8D8E-1D57704028E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8621C0-11C1-4A40-8D8E-1D57704028E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8621C0-11C1-4A40-8D8E-1D57704028E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
