@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneCall", "PhoneCall\Phon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods Assignment", "Methods Assignment\Methods Assignment.csproj", "{0B651AF2-D109-46D5-8BE7-BF0B2A31823A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapProgram", "SwapProgram\SwapProgram.csproj", "{3A31FC9B-FFA5-45A9-9C70-7A6E01EC7B99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadedTriples", "OverloadedTriples\OverloadedTriples.csproj", "{A7E1DDD0-D99B-46B4-A785-CB243198EB84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{0B651AF2-D109-46D5-8BE7-BF0B2A31823A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B651AF2-D109-46D5-8BE7-BF0B2A31823A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B651AF2-D109-46D5-8BE7-BF0B2A31823A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A31FC9B-FFA5-45A9-9C70-7A6E01EC7B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A31FC9B-FFA5-45A9-9C70-7A6E01EC7B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A31FC9B-FFA5-45A9-9C70-7A6E01EC7B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A31FC9B-FFA5-45A9-9C70-7A6E01EC7B99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E1DDD0-D99B-46B4-A785-CB243198EB84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E1DDD0-D99B-46B4-A785-CB243198EB84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E1DDD0-D99B-46B4-A785-CB243198EB84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E1DDD0-D99B-46B4-A785-CB243198EB84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
