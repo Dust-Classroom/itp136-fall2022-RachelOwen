@@ -66,7 +66,7 @@ namespace Assignment10
             WriteLine("-------------------------");
             foreach(Teacher teacher in TeacherList)
             {
-                WriteLine("Teacher " + teacher.PersonId + 1.ToString() + " | " + teacher.Display());
+                WriteLine("Teacher " + teacher.PersonId.ToString() + " | " + teacher.Display());
             }
         }
     }
